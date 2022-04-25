@@ -1,5 +1,7 @@
 # Heart disease Prediction
 - Dataset Source : https://www.kaggle.com/datasets/kamilpytlak/personal-key-indicators-of-heart-disease
+- Pandas Profiling Html : file:///C:/Users/ascom/Downloads/Heart-Disease/Heart-disease-Prediction-/heart_disease%20(%20Pandas%20Profiling%20).html
+- App Link : file:///C:/Users/ascom/Downloads/Heart-Disease/Heart-disease-Prediction-/Templates/index.html
 
 ## <span style="color: blue;">What topic does the dataset cover?</span> 
 
