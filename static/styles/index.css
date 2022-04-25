@@ -1,0 +1,53 @@
+            body {
+        background-image: url('https://www.diabetes.ca/getmedia/ca38f492-76dd-40ef-925f-392988fa7f1a/medical-chart-with-stethoscope.jpg?width=1200&height=801&ext=.jpg');
+        background-repeat: no-repeat;
+        background-attachment: fixed;
+        background-position: center;
+          } 
+    h1 {
+        color: hwb(345 7% 90%);
+        font-family: verdana;
+        font-size: 300%;
+        text-align: center;
+        }
+    p {
+        color: rgb(54, 15, 77);
+        font-family: verdana;
+        font-size: 150%;
+        font-weight: bold;
+        border: 2px solid rgb(10, 10, 4);
+        text-align: center;     
+        }
+    label {
+        color: hsl(282, 73%, 32%);
+        font-family: verdana;
+        font-size: 130%;
+        font-weight: bold;
+        text-align: center;
+        }  
+    input{
+        color: hwb(284 1% 95%);
+        font-family: verdana;
+        font-size: 150%;
+        font-weight: bold;
+        }       
+    body {
+        text-align: center;
+         }
+    select{
+        color: rgb(15, 12, 10);
+        font-family: verdana;
+        font-size: 100%;
+        font-weight: bold;
+        }
+    button {
+        background-color: #3d9b40; /* Green */
+        border: 1px solid rgb(153, 153, 153);
+        color: white;
+        border-radius: 3px;
+        padding: 15px 32px;
+        text-align: center;
+        text-decoration: none;
+        display: inline-block;
+        font-size: 16px;
+         }    

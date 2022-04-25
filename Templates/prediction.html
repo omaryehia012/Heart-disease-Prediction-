@@ -1,0 +1,55 @@
+<!DOCTYPE html>
+<html lang="en">
+
+<head>
+
+    <title>
+        Prediction Page 
+    </title>
+    <style>
+        body {
+        background-image: url('https://th.bing.com/th/id/R.e98df9289fb6970ee29028af84eef27d?rik=DqSvwHVXUrSepg&riu=http%3a%2f%2fwww.indiacarez.com%2fwp-content%2fuploads%2f2015%2f02%2fic3.gif&ehk=6KueKzNIedsmV70XvGDFGpk%2ft2kq17Rt6f5lJSxTlE0%3d&risl=&pid=ImgRaw&r=0');
+        background-repeat: no-repeat;
+        background-attachment: fixed;
+        background-position: center;
+          } 
+        h1 {
+        color: hsl(175, 41%, 95%);
+        font-family: verdana;
+        font-size: 300%;
+        }
+    p {
+        color: rgb(8, 7, 8);
+        font-family: verdana;
+        font-size: 200%;
+        font-weight: bold;
+        border: 2px solid rgb(198, 224, 224)      
+        }
+       
+    body {
+        text-align: center;
+         } 
+         
+    button {
+        background-color: #3d9b40; /* Green */
+        border: 1px solid rgb(153, 153, 153);
+        color: white;
+        border-radius: 3px;
+        padding: 15px 32px;
+        text-align: center;
+        text-decoration: none;
+        display: inline-block;
+        font-size: 16px;
+         }    
+      
+ 
+    </style>
+</head>
+
+<body> 
+    <h1>Heart Disease Prediction</h1>
+    <p>Prediction is {{heart_disease}}</p>
+    <a href={{url_for('index')}}>
+        <button type="button">Return Back!</button>
+    </a>    
+</body>
