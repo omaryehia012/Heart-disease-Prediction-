@@ -1,5 +1,6 @@
 # Heart disease Prediction
 - Dataset Source : https://www.kaggle.com/datasets/kamilpytlak/personal-key-indicators-of-heart-disease
+- Kaggle Notebook : https://www.kaggle.com/code/omarmohamedyehia/heart-disease-prediction
 
 ## <span style="color: blue;">What topic does the dataset cover?</span> 
 
